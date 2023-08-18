@@ -1,0 +1,54 @@
+h1 {
+    color:red;
+}
+
+.navbarmain {
+    width: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.admain {
+    width: 80%;
+    margin: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.scam {
+    float: right;
+    width: 300px;
+    height: 500px;
+    margin-right: 167px;
+}
+
+.login {
+ 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+
+}
+
+.btn {
+    margin-bottom: 10px;
+   
+}
+
+table {
+width:500px;
+height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+

@@ -1,0 +1,75 @@
+.navbarmain {
+    width: 100%;
+}
+
+.annoucements {
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+   
+    cursor: pointer; 
+}
+
+.grades {
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+   
+    cursor: pointer; 
+}
+
+.information {
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+   
+    cursor: pointer; 
+}
+
+.profile {
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+   
+    cursor: pointer; 
+}
+
+.admissions {
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+   
+    cursor: pointer; 
+}
+
+.housing {
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+   
+    cursor: pointer; 
+}
+
+.dashboard{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.footer {
+    width: 100%;
+}
+
+.admission{
+    width: 100%;
+}
+
+.annouceimg {
+    width: 100%;
+}
+
+.studentcom {
+    width: 100%;
+    padding: 150px;
+}
